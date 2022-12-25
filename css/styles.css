@@ -274,7 +274,9 @@ margin: 100px auto;
 
 .project-image {
     border-radius: 10px;
-    width: 600px;
+    width:  500px;
+    height: 300px;
+    object-fit: cover;
 }
 
 .carousel-control-prev-icon {
